@@ -1,0 +1,1 @@
+A mod for minetest that adds colored string and the ability to craft 4 string from wool and viceversa
