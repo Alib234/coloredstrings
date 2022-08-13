@@ -1,3 +1,3 @@
-local path=minetest.get_modpath("coloredstrings")
-dofile(path.."/craftitems.lua")
-dofile(path.."/registercrafts.lua")
+local modpath=minetest.get_modpath("coloredstrings")
+dofile(modpath.."/craftitems.lua")
+dofile(modpath.."/registercrafts.lua")
